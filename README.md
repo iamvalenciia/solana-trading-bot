@@ -1,2 +1,1 @@
-**Live Transaction History**
-https://dexscreener.com/solana/aemyrzmjryzaq9z4rlfublnpruy5ecooc94ejvemfti4?maker=EJj7wbRoDPPQrQw85MVLHcUBiLYHNFEHPtEH8n5MmumA
+[Transaction History](https://dexscreener.com/solana/aemyrzmjryzaq9z4rlufblnpruy5ecooc94ejvemffi4?maker=EJ7wbRoDPPQrQw85MVLHcUbBiLYHNFEHPtEH8n5MumuA)
