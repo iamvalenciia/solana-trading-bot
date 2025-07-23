@@ -1,2 +1,2 @@
-Trading Bot Transaction History:
+*Trading Bot Transaction History:
 https://dexscreener.com/solana/aemyrzmjryzaq9z4rlfublnpruy5ecooc94ejvemfti4?maker=EJj7wbRoDPPQrQw85MVLHcUBiLYHNFEHPtEH8n5MmumA
